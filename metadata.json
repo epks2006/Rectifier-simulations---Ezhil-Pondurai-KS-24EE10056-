@@ -1,0 +1,6 @@
+{
+  "name": "PowerScope — Rectifier & RLE Load Simulation Workbench",
+  "description": "Real-time single-phase and three-phase diode bridge and thyristor-controlled rectifier simulator for R, L, and E loads with interactive component probing and oscilloscope waveform visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
